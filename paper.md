@@ -23,3 +23,6 @@ We compared our measurements of particle aging with a model simulation. The mode
 
 # Results
 The simulations indicate that coagulation is the dominant groeth mechanism for these particles.
+
+# Figures
+Figures go in their own section in a draft paper.
