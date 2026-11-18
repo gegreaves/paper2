@@ -20,3 +20,6 @@ We simulate the evolution of particle sizes as they are transported.
 
 # Methodology
 We compared our measurements of particle aging with a model simulation. The model is detailed in Smith et al (2002).
+
+# Results
+The simulations indicate that coagulation is the dominant groeth mechanism for these particles.
