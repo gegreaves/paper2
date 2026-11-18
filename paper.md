@@ -4,7 +4,7 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 # Author
 John Smith, University of Somewhere Else
 Gerard Capes, University of Manchester
-
+Emily Norton, University of Manchester
 # Introduction
 We present aircraft measurements of BB0A over West Africa.
 
